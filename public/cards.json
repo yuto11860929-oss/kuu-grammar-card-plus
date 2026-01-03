@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "units": [
+    {
+      "unitNo": 1,
+      "id": "unit-01",
+      "title": "時制(1)",
+      "cards": [
+        {
+          "id": "unit-01-001",
+          "no": 1,
+          "front": "現在形の意味と考え方は？",
+          "back": "『現在形』＝『現在・過去・未来形』と考える！"
+        }
+      ]
+    }
+  ],
+  "missingUnits": []
+}

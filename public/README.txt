@@ -1,0 +1,1 @@
+Place cards.json here. Rename your full JSON to public/cards.json

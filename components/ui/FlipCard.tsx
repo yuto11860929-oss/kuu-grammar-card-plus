@@ -40,8 +40,6 @@ function MixedText({ text }: { text: string }) {
 
   return (
     <>
-  return (
-    <>
       {lines.map((line, idx) => {
         const enChars = (line.match(/[A-Za-z]/g) ?? []).length;
         const total = Math.max(1, line.length);

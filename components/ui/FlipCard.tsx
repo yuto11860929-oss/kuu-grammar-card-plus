@@ -36,7 +36,8 @@ export default function FlipCard({
 
 function MixedText({ text }: { text: string }) {
   // ざっくり判定：英字比率が高い「行」はInterに寄せる（-1px）
-  const lines = text.split(/?
+  const lines = text.split(/\n/);
+?
 /);
   return (
     <>
